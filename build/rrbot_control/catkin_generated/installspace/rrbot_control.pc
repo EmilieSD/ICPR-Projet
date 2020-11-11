@@ -1,0 +1,8 @@
+prefix=/home/julien/ISIMA/ZZ3/icpr/icpr-3/icpr_robotsimu/install
+
+Name: rrbot_control
+Description: Description of rrbot_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/julien/ISIMA/ZZ3/icpr/icpr-3/icpr_robotsimu/devel/.private/rrbot_description
+
+Name: rrbot_description
+Description: Description of rrbot_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

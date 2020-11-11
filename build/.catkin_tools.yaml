@@ -1,0 +1,6 @@
+devel_space: /home/julien/ISIMA/ZZ3/icpr/icpr-3/icpr_robotsimu/devel
+install: false
+install_space: /home/julien/ISIMA/ZZ3/icpr/icpr-3/icpr_robotsimu/install
+profile: default
+source_space: /home/julien/ISIMA/ZZ3/icpr/icpr-3/icpr_robotsimu/src
+workspace: /home/julien/ISIMA/ZZ3/icpr/icpr-3/icpr_robotsimu

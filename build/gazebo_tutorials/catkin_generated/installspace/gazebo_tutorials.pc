@@ -1,0 +1,8 @@
+prefix=/home/julien/ISIMA/ZZ3/icpr/icpr-3/icpr_robotsimu/install
+
+Name: gazebo_tutorials
+Description: Description of gazebo_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lgazebo_tutorials
+Requires: roscpp gazebo_ros

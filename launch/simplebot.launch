@@ -1,0 +1,17 @@
+<launch>
+
+    <arg name="world" default="worlds/empty.world"/>
+    <arg name="xacro_file" default="$(find YOUR_PACKAGE)/urdf/YOUR_URDF_XACRO.urdf.xacro"/>
+
+    <param name="robot_description" command="$(find xacro)/xacro.py '$(arg xacro_file)'"/>
+
+    <node name="robot_state_publisher" pkg="robot_state_publisher" type="state_publisher"/>
+
+    <include file="$(find gazebo_ros)/launch/empty_world.launch">
+        <arg name="world_name" default="$(arg world)"/>
+    </include>
+
+    <node name="spawn_YOUR_ROBOT_model" pkg="gazebo_ros" type="spawn_model"
+          args="$(optenv ROBOT_INITIAL_POSE) -unpause -urdf -param robot_description -model YOUR_ROBOT"/>
+
+</launch>
