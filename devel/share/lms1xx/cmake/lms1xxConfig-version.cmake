@@ -1,0 +1,1 @@
+/home/julien/ISIMA/ZZ3/icpr/ICPR-Projet/devel/.private/lms1xx/share/lms1xx/cmake/lms1xxConfig-version.cmake

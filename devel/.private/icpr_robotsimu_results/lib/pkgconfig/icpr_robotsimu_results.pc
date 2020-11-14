@@ -1,0 +1,8 @@
+prefix=/home/julien/ISIMA/ZZ3/icpr/ICPR-Projet/devel/.private/icpr_robotsimu_results
+
+Name: icpr_robotsimu_results
+Description: Description of icpr_robotsimu_results
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

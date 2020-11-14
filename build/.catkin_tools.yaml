@@ -1,0 +1,6 @@
+devel_space: /home/julien/ISIMA/ZZ3/icpr/ICPR-Projet/devel
+install: false
+install_space: /home/julien/ISIMA/ZZ3/icpr/ICPR-Projet/install
+profile: default
+source_space: /home/julien/ISIMA/ZZ3/icpr/ICPR-Projet/src
+workspace: /home/julien/ISIMA/ZZ3/icpr/ICPR-Projet

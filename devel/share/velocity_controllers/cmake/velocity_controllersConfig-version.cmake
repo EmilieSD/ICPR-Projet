@@ -1,0 +1,1 @@
+/home/julien/ISIMA/ZZ3/icpr/ICPR-Projet/devel/.private/velocity_controllers/share/velocity_controllers/cmake/velocity_controllersConfig-version.cmake

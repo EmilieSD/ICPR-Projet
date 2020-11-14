@@ -1,0 +1,8 @@
+prefix=/home/julien/ISIMA/ZZ3/icpr/ICPR-Projet/devel/.private/multikey_teleop
+
+Name: multikey_teleop
+Description: Description of multikey_teleop
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
