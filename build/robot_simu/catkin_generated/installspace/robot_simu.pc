@@ -1,0 +1,8 @@
+prefix=/home/julien/ISIMA/ZZ3/icpr/ICPR-Projet/install
+
+Name: robot_simu
+Description: Description of robot_simu
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

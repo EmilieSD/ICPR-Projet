@@ -1,0 +1,1 @@
+/home/julien/ISIMA/ZZ3/icpr/ICPR-Projet/devel/.private/robot_simu/lib/pkgconfig/robot_simu.pc
